@@ -93,6 +93,6 @@ usage: detect.py [-h] [--data_folder DATA_FOLDER] [--model_name MODEL_NAME] [--c
 ## Ackknowledgements
 I have used utility functions from other open-source projects.
 
-[Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
-[R-YOLOv4](https://github.com/kunnnnethan/R-YOLOv4)
-[YOLOv5_OBB](https://github.com/hukaixuan19970627/yolov5_obb)
+[Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)</br>
+[R-YOLOv4](https://github.com/kunnnnethan/R-YOLOv4)</br>
+[YOLOv5_OBB](https://github.com/hukaixuan19970627/yolov5_obb)</br>
