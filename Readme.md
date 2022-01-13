@@ -53,14 +53,14 @@ R-YOLOv4/
     ├── coco.names
     ├── train
         ├── images
-            ├── ...png
+            ├── ...png/jpg
             └── ...txt
     ├── test
         ├── images
-            ├── ...png
+            ├── ...png/jpg
             └── ...txt
     └── detect
-        └── ...png
+        └── ...png/jpg
 ```
 
 ### Train
