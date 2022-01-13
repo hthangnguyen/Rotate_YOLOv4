@@ -11,6 +11,7 @@ I have tested on:
 ### Dataset
 
 **I tested the model on 3 datasets**
+
 [UCAS-High Resolution Aerial Object Detection Dataset (UCAS-AOD)](https://github.com/ming71/UCAS-AOD-benchmark)</br>
 [Vehicle Detection in Aerial Imagery (VEDAI)(512)](https://downloads.greyc.fr/vedai/)</br>
 [DLR Multi-class Vehicle Detection and Orientation in Aerial Imagery (DLR-MVDA)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/22294_read-52777)</br>
@@ -25,9 +26,6 @@ obj_id    ncx    ncy    nw    nh    theta
 
 ```
 
-### Features
-
----
 #### Loss Function (only for x, y, w, h, theta)
 
 <img src="https://i.imgur.com/zdA9RJj.png" alt="loss" height="90"/>
@@ -70,8 +68,6 @@ R-YOLOv4/
 usage: train.py [-h] [--data_folder DATA_FOLDER] [--weights_path WEIGHTS_PATH] [--model_name MODEL_NAME] [--epochs EPOCHS] [--lr LR]
                 [--batch_size BATCH_SIZE] [--subdivisions SUBDIVISIONS] [--img_size IMG_SIZE] [--number_of_classes NUMBER_OF_CLASSES]
                 [--no_augmentation] [--no_multiscale]
-```
-
 ```
 
 ### Test
