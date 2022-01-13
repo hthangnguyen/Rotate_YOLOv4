@@ -1,3 +1,4 @@
+[Paper for Rotate YOLOv4: ](https://github.com/hthangnguyen/Rotate_YOLOv4/blob/main/vehicle%20orientation%20detection-submission.pdf)
 # INSTALLATION
 ## Requirements
 * Python 3.7+
