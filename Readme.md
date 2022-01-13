@@ -92,6 +92,7 @@ usage: detect.py [-h] [--data_folder DATA_FOLDER] [--model_name MODEL_NAME] [--c
 
 ## Ackknowledgements
 I have used utility functions from other open-source projects.
+
 [yangxue0827/RotationDetection](https://github.com/yangxue0827/RotationDetection)</br>
 [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)</br>
 [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
