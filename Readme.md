@@ -1,4 +1,4 @@
-[Paper for Rotate YOLOv4](https://github.com/hthangnguyen/Rotate_YOLOv4/blob/main/paper_eng_preprint.pdf)
+[Paper for Rotate YOLOv4](https://github.com/hthangnguyen/Rotate_YOLOv4/blob/main/KCI_FI002798081.pdf)
 # INSTALLATION
 ## Requirements
 * Python 3.7+
